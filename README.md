@@ -12,4 +12,4 @@ get position indoor
 
 
 # How to config the position of anchors in the map?
-- API provide the distances betweeen tag and anchors. We will calcul
+- API provide the distances betweeen tag and anchors.
